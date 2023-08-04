@@ -42,6 +42,8 @@
     grid-template-columns: repeat(18, 1fr);
 }
 
+
+
 .head{
     background: linear-gradient(rgb(240, 124, 124), rgb(228, 228, 129));
     border: 2px solid rgb(34, 4, 34); 
